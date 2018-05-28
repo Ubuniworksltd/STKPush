@@ -1,5 +1,5 @@
 # STKPush
-STKPush by Safaricom Ltd
+STKPush by Ubuniworks Ltd
 
 1. Log in into your Developer Account at developer.safaricom.co.ke
 2. Create your Consumer Key and Consumer Secret
@@ -9,15 +9,11 @@ STKPush by Safaricom Ltd
 6. Play Around and Don't hesitate to Go Live. 
 7. If you happen to see me around buy me a Drink , people think I am a Foodie.
 
-www.brianosoro.com
+www.digitalstepscreatives.co.ke
 
-Twitter : @brayanosoro
+Twitter : @fredrickboaz
 
-info@brianosoro.com
+info@digitalstepscreatives.co.ke
 
-brianosoroinc@gmail.com
-
-
-Symatech Labs Ltd
-
-www.symatechlabs.com
+fredrickboaz@gmail.com
+DSC Creatives
